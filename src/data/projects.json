@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "CV React",
+    "description": "Portfolio personal desarrollado con React y Material UI.",
+    "image": "https://via.placeholder.com/345x160?text=CV+React",
+    "link": "https://github.com/HamzaLahrour",
+    "tags": ["React", "MUI", "JavaScript"]
+  },
+  {
+    "id": 2,
+    "title": "Venta Abonos - UD Almería",
+    "description": "Sistema de compra de abonos para el club UD Almería.",
+    "image": "https://via.placeholder.com/345x160?text=UD+Almeria",
+    "link": "https://github.com/HamzaLahrour",
+    "tags": ["Laravel", "PHP", "HTML", "CSS"]
+  },
+  {
+    "id": 3,
+    "title": "Sistema de Matriculación",
+    "description": "Gestión del sistema de matriculación del instituto IES Al-Ándalus.",
+    "image": "https://via.placeholder.com/345x160?text=Matriculacion",
+    "link": "https://github.com/HamzaLahrour/SistemaMatriculacion_v4",
+    "tags": ["Java"]
+  }
+]
